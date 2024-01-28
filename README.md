@@ -28,7 +28,7 @@ cd sort
 ```
 make
 ```
-.3 Assurez-vous d'avoir les dépendances nécessaires : 
+3. Assurez-vous d'avoir les dépendances nécessaires : 
 
 Numpy :
 ```
