@@ -20,8 +20,8 @@ Les détails de ces algorithmes sont visibles sur : https://fr.wikipedia.org/wik
 1. Clonez le dépôt GitHub :
 
 ```bash
-git clone https://github.com/votre-utilisateur/votre-projet.git
-cd votre-projet
+git clone https://github.com/bvder92/sort.git
+cd sort
 ```
 2. Compilez le projet pour utiliser la bibliothèque partagée :
 
